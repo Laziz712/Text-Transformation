@@ -13,7 +13,7 @@ body {
     text-align: center;
     margin-top: 60px;
     color: black;
-    font-size: 30px;
+    font-size: 35px;
 }
 
 .text-black {
@@ -71,4 +71,5 @@ body {
 
 .bg-color {
     background-color: black;
+
 }
