@@ -28,6 +28,7 @@ body {
     border-radius: 7px;
     margin-left: 900px;
     margin-top: 20px;
+    transition: 0.7 all ease;
 }
 
 .card .button1 {
@@ -73,3 +74,4 @@ body {
     background-color: black;
 
 }
+
